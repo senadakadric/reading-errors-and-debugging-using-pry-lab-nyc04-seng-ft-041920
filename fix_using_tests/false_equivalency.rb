@@ -13,7 +13,7 @@ end
 def selection(number)
   if number == 1
      "YUM YUM MUNCH MUNCH MUNCH"
-  else
+  elsif number == 2
      "HAM HAM HAM IN MY TUMMY"
   end
 end
